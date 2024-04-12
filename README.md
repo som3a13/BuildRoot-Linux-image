@@ -169,7 +169,3 @@ sudo nmap -sn `<localIPv4>`/24
 ssh root@`<Pi-IP>`
 
 ![1712249324185](image/README/1712249324185.png)
-
-# 7. What about starting our booting with uboot ?
-
-**We can configure it manually or through buildroot but check U-BOOT folder and make a try**
