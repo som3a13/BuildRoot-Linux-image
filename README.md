@@ -31,7 +31,7 @@ make ls-configs
 ls configs/
 ```
 
-## for Qemu
+## for Vexpress - Qemu
 
 ```
 make qemu_arm_vexpress_defconfig
@@ -157,7 +157,7 @@ do like below :
 
 it will assign ip for host and will automatic assign an ip for raspi .  remove eth cable and connect again if not yet working
 
-![](https://file+.vscode-resource.vscode-cdn.net/home/som3a133/Pictures/Screenshots/Screenshot%20from%202024-04-02%2017-02-59.png?version%3D1712248880735)
+![1713026359982](image/README/1713026359982.png)
 
 # 6. Result on RPI4
 
