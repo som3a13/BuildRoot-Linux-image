@@ -18,7 +18,7 @@ obj-y += my_driver.o
 
 ```
 
-![1717451464487](https://file+.vscode-resource.vscode-cdn.net/home/som3a133/Desktop/GitHub/EmbeddedLinux-NTI/2-EmbeddedLinux/2-BuildRoot-Linux-Image/New-DeviceDriver/image/README/1717451464487.png)
+![1720191393958](image/README/1720191393958.png)
 
 ### 3. Edit the Kconfig File
 
