@@ -18,7 +18,7 @@ obj-y += my_driver.o
 
 ```
 
-![1717451464487](image/README/1717451464487.png)
+![1720190707704](image/README/1720190707704.png)
 
 ### 3. Edit the Kconfig File
 
@@ -35,8 +35,7 @@ config MY_DRIVER
 
 ```
 
-![1717451689485](image/README/1717451689485.png)
-
+![1720190748667](image/README/1720190748667.png)
 
 ### 4. Run menuconfig
 
@@ -48,4 +47,4 @@ make menuconfig
 
 ### 5. Results :
 
-![1717451996124](image/README/1717451996124.png)
+![1717451996124](https://file+.vscode-resource.vscode-cdn.net/home/som3a133/Desktop/GitHub/BuildRoot-Linux-image/New-DeviceDriver/image/README/1717451996124.png)
