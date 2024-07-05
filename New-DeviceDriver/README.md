@@ -35,6 +35,7 @@ config MY_DRIVER
 
 ```
 
+
 ### 4. Run menuconfig
 
 Navigate to the root of your kernel source directory and run `menuconfig`:
